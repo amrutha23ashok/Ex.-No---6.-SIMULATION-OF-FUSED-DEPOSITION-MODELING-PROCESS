@@ -23,8 +23,8 @@
 ## Output:
 ![image](https://github.com/amrutha23ashok/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120772913/2bfb2bdb-7e71-45d6-ae84-ae0db8cc86ef)
 
-### Name:
-### Register Number:
+### Name:S.A.AMRUTHA
+### Register Number:212222110004
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
